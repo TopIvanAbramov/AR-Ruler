@@ -4,5 +4,5 @@ Simple ruler using AR
 
 Additionally track camera to rotate text
 
-![](https://github.com/TopIvanAbramov/AR-Ruler/blob/master/appDemo.gif)
+![](https://github.com/TopIvanAbramov/AR-Ruler/blob/master/newDemo.gif)
 
