@@ -11,7 +11,6 @@
 		2C5C33B424AA2A1E00EC7F76 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C5C33B324AA2A1E00EC7F76 /* art.scnassets */; };
 		2C5C33B624AA2A1E00EC7F76 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C5C33B524AA2A1E00EC7F76 /* ViewController.swift */; };
 		2C5C33B924AA2A1E00EC7F76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C5C33B724AA2A1E00EC7F76 /* Main.storyboard */; };
-		2C5C33BB24AA2A2200EC7F76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C5C33BA24AA2A2200EC7F76 /* Assets.xcassets */; };
 		2C5C33BE24AA2A2200EC7F76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C5C33BC24AA2A2200EC7F76 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -21,9 +20,9 @@
 		2C5C33B324AA2A1E00EC7F76 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		2C5C33B524AA2A1E00EC7F76 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2C5C33B824AA2A1E00EC7F76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		2C5C33BA24AA2A2200EC7F76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C5C33BD24AA2A2200EC7F76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C5C33BF24AA2A2200EC7F76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C5C33C524AA2A4100EC7F76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,11 +55,11 @@
 		2C5C33B024AA2A1E00EC7F76 /* AR Ruler */ = {
 			isa = PBXGroup;
 			children = (
-				2C5C33B124AA2A1E00EC7F76 /* AppDelegate.swift */,
+				2C5C33C524AA2A4100EC7F76 /* Assets.xcassets */,
 				2C5C33B324AA2A1E00EC7F76 /* art.scnassets */,
+				2C5C33B124AA2A1E00EC7F76 /* AppDelegate.swift */,
 				2C5C33B524AA2A1E00EC7F76 /* ViewController.swift */,
 				2C5C33B724AA2A1E00EC7F76 /* Main.storyboard */,
-				2C5C33BA24AA2A2200EC7F76 /* Assets.xcassets */,
 				2C5C33BC24AA2A2200EC7F76 /* LaunchScreen.storyboard */,
 				2C5C33BF24AA2A2200EC7F76 /* Info.plist */,
 			);
@@ -127,7 +126,6 @@
 			files = (
 				2C5C33B424AA2A1E00EC7F76 /* art.scnassets in Resources */,
 				2C5C33BE24AA2A2200EC7F76 /* LaunchScreen.storyboard in Resources */,
-				2C5C33BB24AA2A2200EC7F76 /* Assets.xcassets in Resources */,
 				2C5C33B924AA2A1E00EC7F76 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -285,7 +283,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = K9N82GAG49;
+				DEVELOPMENT_TEAM = 45UDDW3RM4;
 				INFOPLIST_FILE = "AR Ruler/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -303,7 +301,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = K9N82GAG49;
+				DEVELOPMENT_TEAM = 45UDDW3RM4;
 				INFOPLIST_FILE = "AR Ruler/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
